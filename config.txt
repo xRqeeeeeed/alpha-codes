@@ -1,4 +1,4 @@
-token= NTMwOTEwMjYzNDc4NzE0Mzk4.DxGQzw.B4Q5XRXrnwLSzNlqOZiDpU5ZIP
+token= NTMwOTEwOTU3NzY2MDQ5ODA1.DxGWnA.JSYz7kDl7kYYKXPYrK3-l_eDqA4
 owner= 529081729642790935 
 prefix= صلي على النبي
 game=1help
